@@ -10,8 +10,8 @@ Rewards functions are developed by each competitor in order to guide the learnin
 
 | Original Track | Calculated Race Line | Numpy coordinates |
 |----------------|----------------------|-------------------|
-| ![](assets/Canada.png) | ![](assets/Canada_Race.png) | NumPy:&nbsp;[Canada_Training](Canada_Training-1000-4-2019-10-11-163418.npy) Python&nbsp;Code:&nbsp;[Canada_Training.py](Canada_Training-1000-4-2019-10-11-163418.py) |
-| ![](assets/reinvent.png) | ![](assets/reinvent_race.png) | NumPy:&nbsp;[reinvent_base.npy](reinvent_base-400-4-2019-10-11-161903.npy) Python&nbsp;Code:&nbsp;[reinvent_base.py](reinvent_base-400-4-2019-10-11-161903.py) |
+| ![](assets/Canada.png) | ![](assets/Canada_Race.png) | NumPy:&nbsp;[Canada_Training](racelines/Canada_Training-1000-4-2019-10-11-163418.npy) Python&nbsp;Code:&nbsp;[Canada_Training.py](racelines/Canada_Training-1000-4-2019-10-11-163418.py) |
+| ![](assets/reinvent.png) | ![](assets/reinvent_race.png) | NumPy:&nbsp;[reinvent_base.npy](racelines/reinvent_base-400-4-2019-10-11-161903.npy) Python&nbsp;Code:&nbsp;[reinvent_base.py](racelines/reinvent_base-400-4-2019-10-11-161903.py) |
 
 
 
