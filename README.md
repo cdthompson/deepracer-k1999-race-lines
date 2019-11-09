@@ -12,6 +12,7 @@ Rewards functions are developed by each competitor in order to guide the learnin
 |----------------|----------------------|-------------------|
 | ![](assets/Canada.png) | ![](assets/Canada_Race.png) | NumPy:&nbsp;[Canada_Training](racelines/Canada_Training-1000-4-2019-10-11-163418.npy) Python&nbsp;Code:&nbsp;[Canada_Training.py](racelines/Canada_Training-1000-4-2019-10-11-163418.py) |
 | ![](assets/reinvent.png) | ![](assets/reinvent_race.png) | NumPy:&nbsp;[reinvent_base.npy](racelines/reinvent_base-400-4-2019-10-11-161903.npy) Python&nbsp;Code:&nbsp;[reinvent_base.py](racelines/reinvent_base-400-4-2019-10-11-161903.py) |
+| ![](assets/reinvent2019.png) | ![](assets/reinvent2019_race.png) | NumPy:&nbsp;[reinvent2019.npy](racelines/reInvent2019_track-1000-4-2019-11-09-113228.npy) Python&nbsp;Code:&nbsp;[reinvent2019.py](racelines/reInvent2019_track-1000-4-2019-11-09-113228.py)
 
 
 
